@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kendo-sample-for-jlin/static/css/main.e056d189.css",
+    "main.js": "/kendo-sample-for-jlin/static/js/main.7f1b80e5.js",
+    "static/js/787.77ad1c2a.chunk.js": "/kendo-sample-for-jlin/static/js/787.77ad1c2a.chunk.js",
+    "index.html": "/kendo-sample-for-jlin/index.html",
+    "main.e056d189.css.map": "/kendo-sample-for-jlin/static/css/main.e056d189.css.map",
+    "main.7f1b80e5.js.map": "/kendo-sample-for-jlin/static/js/main.7f1b80e5.js.map",
+    "787.77ad1c2a.chunk.js.map": "/kendo-sample-for-jlin/static/js/787.77ad1c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e056d189.css",
+    "static/js/main.7f1b80e5.js"
+  ]
+}
